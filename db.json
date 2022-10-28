@@ -24,22 +24,6 @@
     { "id": 11, "name": "Dessert 5", "description": "Very teasty dessert 5", "price": 170 },
     { "id": 12, "name": "Dessert 6", "description": "Very teasty dessert 6", "price": 100 }
   ],
-  "coldDrinks": [
-    { "id": 13, "name": "Cold drink 1", "description": "Very cold drink 1", "price": 100 },
-    { "id": 14, "name": "Cold drink 2", "description": "Very cold drink 2", "price": 140 },
-    { "id": 15, "name": "Cold drink 3", "description": "Very cold drink 3", "price": 150 },
-    { "id": 16, "name": "Cold drink 4", "description": "Very cold drink 4", "price": 180 },
-    { "id": 17, "name": "Cold drink 5", "description": "Very cold drink 5", "price": 170 },
-    { "id": 18, "name": "Cold drink 6", "description": "Very cold drink 6", "price": 120 }
-  ],
-  "hotDrinks": [
-    { "id": 18, "name": "Hot drink 1", "description": "Very Hot drink 1", "price": 200 },
-    { "id": 19, "name": "Hot drink 2", "description": "Very Hot drink 2", "price": 240 },
-    { "id": 20, "name": "Hot drink 3", "description": "Very Hot drink 3", "price": 250 },
-    { "id": 21, "name": "Hot drink 4", "description": "Very Hot drink 4", "price": 280 },
-    { "id": 22, "name": "Hot drink 5", "description": "Very Hot drink 5", "price": 270 },
-    { "id": 23, "name": "Hot drink 6", "description": "Very Hot drink 6", "price": 230 }
-  ],
   "combos": [
     { "id": 24, "name": "Combo 1", "description": "Very teasty Combo 1", "price": 600 },
     { "id": 25, "name": "Combo 2", "description": "Very teasty Combo 2", "price": 540 },
