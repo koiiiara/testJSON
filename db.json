@@ -6,14 +6,14 @@
         "name": "Pizza 1", 
         "description": "Very teasty pizza 1", 
         "price": 700,
-        "group": "pizza"
+        "group": "Пицца"
       },
       { 
         "id": 2, 
         "name": "Pizza 2",
         "description": "Very teasty pizza 2", 
         "price": 540,
-        "group": "pizza" 
+        "group": "pizza1" 
       },
       { 
         "id": 3,
