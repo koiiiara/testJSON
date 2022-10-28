@@ -5,55 +5,61 @@
         "id": 1, 
         "name": "Pizza 1", 
         "description": "Very teasty pizza 1", 
-        "price": 700 
+        "price": 700,
+        "group": "pizza"
       },
       { 
         "id": 2, 
         "name": "Pizza 2",
         "description": "Very teasty pizza 2", 
-        "price": 540 
+        "price": 540,
+        "group": "pizza" 
       },
       { 
         "id": 3,
         "name": "Pizza 3",
         "description": "Very teasty pizza 3",
-        "price": 650
+        "price": 650,
+        "group": "pizza"
       },
       {
         "id": 4,
        "name": "Pizza 4",
        "description": "Very teasty pizza 4",
-       "price": 880
+       "price": 880,
+       "group": "pizza"
       },
       {
         "id": 5,
         "name": "Pizza 5",
         "description": "Very teasty pizza 5",
-        "price": 670
+        "price": 670,
+        "group": "pizza"
       },
       {
         "id": 6,
         "name": "Pizza 6",
         "description": "Very teasty pizza 6",
-        "price": 720
+        "price": 720,
+        "group": "pizza"
       },
-      { "id": 7, "name": "Burger 1", "description": "Very teasty burger 1", "price": 400 },
-      { "id": 8, "name": "Burger 2", "description": "Very teasty burger 2", "price": 440 },
-      { "id": 9, "name": "Burger 3", "description": "Very teasty burger 3", "price": 350 },
-      { "id": 10, "name": "Burger 4", "description": "Very teasty burger 4", "price": 480 },
-      { "id": 11, "name": "Burger 5", "description": "Very teasty burger 5", "price": 370 },
-      { "id": 12, "name": "Burger 6", "description": "Very teasty burger 6", "price": 500 },
-      { "id": 7, "name": "Dessert 1", "description": "Very teasty dessert 1", "price": 200 },
-      { "id": 8, "name": "Dessert 2", "description": "Very teasty dessert 2", "price": 140 },
-      { "id": 9, "name": "Dessert 3", "description": "Very teasty dessert 3", "price": 250 },
-      { "id": 10, "name": "Dessert 4", "description": "Very teasty dessert 4", "price": 280 },
-      { "id": 11, "name": "Dessert 5", "description": "Very teasty dessert 5", "price": 170 },
-      { "id": 12, "name": "Dessert 6", "description": "Very teasty dessert 6", "price": 100 },
-      { "id": 24, "name": "Combo 1", "description": "Very teasty Combo 1", "price": 600 },
-      { "id": 25, "name": "Combo 2", "description": "Very teasty Combo 2", "price": 540 },
-      { "id": 26, "name": "Combo 3", "description": "Very teasty Combo 3", "price": 650 },
-      { "id": 27, "name": "Combo 4", "description": "Very teasty Combo 4", "price": 580 },
-      { "id": 28, "name": "Combo 5", "description": "Very teasty Combo 5", "price": 670 },
-      { "id": 29, "name": "Combo 6", "description": "Very teasty Combo 6", "price": 700 }
+      { "id": 7, "name": "Burger 1", "description": "Very teasty burger 1", "price": 400, "group": "burger" },
+      { "id": 8, "name": "Burger 2", "description": "Very teasty burger 2", "price": 440, "group": "burger" },
+      { "id": 9, "name": "Burger 3", "description": "Very teasty burger 3", "price": 350, "group": "burger" },
+      { "id": 10, "name": "Burger 4", "description": "Very teasty burger 4", "price": 480, "group": "burger" },
+      { "id": 11, "name": "Burger 5", "description": "Very teasty burger 5", "price": 370, "group": "burger" },
+      { "id": 12, "name": "Burger 6", "description": "Very teasty burger 6", "price": 500, "group": "burger" },
+      { "id": 7, "name": "Dessert 1", "description": "Very teasty dessert 1", "price": 200, "group": "dessert" },
+      { "id": 8, "name": "Dessert 2", "description": "Very teasty dessert 2", "price": 140, "group": "dessert" },
+      { "id": 9, "name": "Dessert 3", "description": "Very teasty dessert 3", "price": 250, "group": "dessert" },
+      { "id": 10, "name": "Dessert 4", "description": "Very teasty dessert 4", "price": 280, "group": "dessert" },
+      { "id": 11, "name": "Dessert 5", "description": "Very teasty dessert 5", "price": 170, "group": "dessert" },
+      { "id": 12, "name": "Dessert 6", "description": "Very teasty dessert 6", "price": 100, "group": "dessert" },
+      { "id": 24, "name": "Combo 1", "description": "Very teasty Combo 1", "price": 600, "group": "combo" },
+      { "id": 25, "name": "Combo 2", "description": "Very teasty Combo 2", "price": 540, "group": "combo" },
+      { "id": 26, "name": "Combo 3", "description": "Very teasty Combo 3", "price": 650, "group": "combo" },
+      { "id": 27, "name": "Combo 4", "description": "Very teasty Combo 4", "price": 580, "group": "combo" },
+      { "id": 28, "name": "Combo 5", "description": "Very teasty Combo 5", "price": 670, "group": "combo" },
+      { "id": 29, "name": "Combo 6", "description": "Very teasty Combo 6", "price": 700, "group": "combo" }
     ]
 }
